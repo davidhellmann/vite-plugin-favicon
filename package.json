@@ -31,7 +31,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/josh-hemphill/vite-plugin-favicon.git"
+		"url": "git+https://github.com/davidhellmann/vite-plugin-faviconTemp.git"
 	},
 	"keywords": [
 		"vite-plugin",
@@ -54,9 +54,9 @@
 	},
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/josh-hemphill/vite-plugin-favicon/issues"
+		"url": "https://github.com/davidhellmann/vite-plugin-faviconTemp/issues"
 	},
-	"homepage": "https://github.com/josh-hemphill/vite-plugin-favicon#readme",
+	"homepage": "https://github.com/davidhellmann/vite-plugin-faviconTemp#readme",
 	"files": [
 		"dist",
 		"mod.ts",
